@@ -42,3 +42,16 @@ body{
     border: none;
 }
 
+#msg{
+    color: antiquewhite;
+    font-size: 5vmin;
+}
+
+.msg{
+    height: 20vmin;
+}
+
+.hide{
+    display: none;
+}
+
