@@ -18,7 +18,7 @@ const winPatterns = [
 const showWinner = (winner) => {
     msg1.innerText = `Congratulations, Winner is ${winner}`;
     msg.classList.remove("hide");
-}
+};
 
 boxes.forEach((box) => {
     box.addEventListener("click", () => {
